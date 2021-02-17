@@ -1,3 +1,0 @@
-[submodule "vault_test"]
-	path = vault_test
-	url = git@github.com:hfenner/vault_test
